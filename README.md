@@ -1,2 +1,5 @@
 # tanya25bai11581
-My GitHub profile README showcasing my interests and learning.
+Hi, I am Tanya . 
+BTech CSE-AIML, VIT Bhopal, 1st Year  .
+
+I am interested in AI, Machine Learning, and building real-world projects.
